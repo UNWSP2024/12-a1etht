@@ -42,5 +42,4 @@ btn_total.pack(pady=10)
 label_total = tk.Label(root, text="Total Charges: $0.00", font=('Arial', 12))
 label_total.pack(pady=5)
 
-
 root.mainloop()
